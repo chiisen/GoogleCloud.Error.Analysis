@@ -24,3 +24,8 @@ Redis Key 為 `downloaded-logs-20241027-111115`，
 開啟專案並執行，  
 就能看到整理出來的內容。  
 ![RUN](./images/ERROR_RUN.png)  
+
+# 整理
+取得資料後，
+在進行匯入 Excel 就能變成較好閱讀的資料了。  
+![EXCEL](./images/ERROR_EXCEL.png)  
